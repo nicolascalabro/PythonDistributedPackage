@@ -1,0 +1,8 @@
+setup.py
+SegPreEntrega.egg-info/PKG-INFO
+SegPreEntrega.egg-info/SOURCES.txt
+SegPreEntrega.egg-info/dependency_links.txt
+SegPreEntrega.egg-info/top_level.txt
+packageClient/PriPreEntr_Calabro_Nicolas.py
+packageClient/__init__.py
+packageClient/client.py
